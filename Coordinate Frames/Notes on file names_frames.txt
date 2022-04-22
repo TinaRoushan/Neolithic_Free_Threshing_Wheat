@@ -1,0 +1,46 @@
+Files are coordinate frames corresponding to coordinate folders
+
+*Charred_Frame_FT_Combined_Neo
+
+All modern reference grains and archaeological grains
+
+*Charred_Frame_FT_Combined_Neo_Hex
+
+All hexaploid modern reference grains and Çatalhöyük grains
+
+*Charred_Frame_FT_Combined_Neo_LR_Carth
+
+Modern reference grains excluding advanced/improved varieties + archaeological grains + small
+sample of T. carthlicum
+
+*Charred_Frame_FT_Combined_Neo_LR_Catal
+
+Modern reference grains excluding advanced/improved varieties + Çatalhöyük grains
+
+*Charred_Frame_FT_Combined_Neo_LR_Kouph
+
+Modern reference grains excluding advanced/improved varieties + Kouphovouno grains
+
+*Charred_Frame_FT_Kouph_Dur
+
+All modern durum grains and Kouphovouno grains
+
+*CharredNeo_Ref
+
+Modern reference grains used in Stage 1 analysis
+
+*CharredNeo_Ref_LR
+
+Subset of CharredNeo_Ref with all advanced/improved varieties removed
+
+*MethodTest_FTW
+
+Repeated outlines used for measurement error tests
+
+*Unclass_Catal
+
+All Çatalhöyük grains
+
+*Unclass_Kouph
+
+All Kouphovouno grains
