@@ -1,0 +1,16 @@
+Stage 1
+
+CharredNeo_Ref= All charred modern reference material used for Stage 1
+CharredNeo_Ref_LR= Subset of CharredNeo_Ref with all advanced/improved varieties removed
+Combined_Neo= All Stage 1 modern and archaeological material 
+Combined_Neo_LR= Stage 1 landrace/traditional accessions and all archaeological grains
+Combined_Neo_LR_Catal= Stage 1 landrace/traditional accessions and Çatalhöyük grains
+Combined_Neo_LR_Kouph= Stage 1 landrace/traditional accessions and Kouphovouno grains
+Unclass_Catal= Çatalhöyük grains ready for reclassification 
+Unclass_Kouph= Kouphovouno grains ready for reclassification 
+
+Stage 2
+Combined_Neo_Hex= Extended hexaploid dataset for varietal comparisons and Çatalhöyük grains
+Combined_Neo_Hex= Extended tetraploid dataset for varietal comparisons and Kouphovouno grains
+Neo_Hex= Extended hexaploid dataset for varietal comparisons
+Neo_Tdur= Extended durum dataset for varietal comparisons 
