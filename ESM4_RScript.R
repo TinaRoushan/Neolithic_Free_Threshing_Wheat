@@ -75,7 +75,7 @@ plot(NeoRefOut.d.l.lda, col=c("#24947A", "#0000FF", "#c44918", "#AA29E1"), point
 #LDA of accession
 NeoRefOut.d.l %>% chop(~View) %>% lapply(efourier,nb.h=8, norm = FALSE, start = FALSE) %>% combine %>% LDA ('Accession', scale=FALSE, center= TRUE) 
 NeoRefOutA.d.l.lda <- NeoRefOut.d.l %>% chop(~View) %>% lapply(efourier,nb.h=8, norm = FALSE, start = FALSE, center= TRUE) %>% combine %>% LDA ('Accession', scale=FALSE, center= TRUE)
-#KDA of Ploidy
+#LDA of Ploidy
 NeoRefOut.d.l %>% chop(~View) %>% lapply(efourier,nb.h=8, norm = FALSE, start = FALSE) %>% combine %>% LDA ('Ploidy', scale=FALSE, center= TRUE) 
 NeoRefOutA.d.l.lda <- NeoRefOut.d.l %>% chop(~View) %>% lapply(efourier,nb.h=8, norm = FALSE, start = FALSE, center= TRUE) %>% combine %>% LDA ('Ploidy', scale=FALSE, center= TRUE)
 #3d LDA
